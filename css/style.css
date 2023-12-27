@@ -478,9 +478,7 @@ body.loaded #preloader {
 
 .navigation-menu .navbar-nav li a:hover {
     background: none;
-    /* color: #fff; */
-    /* color: #fff; */
-    color: #000;
+    color: #3340FF;
     -webkit-transition: all 0.3s ease-out;
     transition: all 0.3s ease-out;
 }
@@ -488,8 +486,7 @@ body.loaded #preloader {
 .nav li a:focus,
 .nav li a:hover {
     background: none;
-    /* color: #fff; */
-    color: #000;
+    color: #3340FF;
     -webkit-transition: all 0.3s ease-out;
     transition: all 0.3s ease-out;
 }
@@ -522,7 +519,7 @@ body.loaded #preloader {
 }
 
 .navigation-background .navigation-menu .navbar-nav li a:hover {
-    color: #fff;
+    color: #3340FF;
 }
 
 
@@ -1129,7 +1126,7 @@ ul.portfolio li span.active {
 
 @media only screen and (max-width: 767px) {
     .navbar-toggle .icon-bar {
-        background: #f8f8f8;
+        background: #3340FF;
     }
     .navigation-background .navbar-toggle .icon-bar {
         background: #fff;
@@ -1161,7 +1158,7 @@ ul.portfolio li span.active {
         margin-top: -30px;
     }
     .navbar-collapse {
-        background: rgba(0, 0, 0, .9);
+        background: #fff
     }
     .navigation-background .navbar-collapse {
         background: rgba(0, 0, 0, .9);
